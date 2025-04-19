@@ -2,9 +2,9 @@
 - # On-Chain Expense Tracker DApp
 This is a decentralized application (DApp) built using Solidity and React, which allows users to track shared expenses transparently on the Ethereum blockchain..
 
-Solidity feature #1: *Getting your own name*
+Solidity feature #1: *Akash*
 
-JavaScript Feature #1: *Display connected wallet address*
+JavaScript Feature #1: *0x3e67CFB1327e19aeFD418f900956Fa1564F30dDb*
 
 
  JavaScript addedCode:
